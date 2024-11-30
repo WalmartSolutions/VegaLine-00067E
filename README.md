@@ -14,7 +14,7 @@
 
 # How To Use
 
-1. Download the client from the [here](https://www.mediafire.com/file/9imq4xj7ltvns99/VegaLine.zip/file).
+1. Download the client from the [here](https://www.mediafire.com/file/wbtieu9x70l0950/VegaLine.zip/file).
 2. Extract it into .minecraft/versions.
 3. Start game with [Java 17.0.6](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe).
 
