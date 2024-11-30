@@ -22,8 +22,10 @@
 
 # GUI (Bind: AltGr)
 
-![image](https://github.com/WalmartSolutions/)
+![image](https://github.com/WalmartSolutions/VegaLine-00067E/blob/main/Assets/GUI.png?raw=true)
 
 # Hall of Autism
 
-![image](https://github.com/WalmartSolutions)
+![image](https://github.com/WalmartSolutions/VegaLine-00067E/blob/main/Assets/AutismCompilation.png?raw=true)
+
+![image](https://github.com/WalmartSolutions/VegaLine-00067E/blob/main/Assets/VPN-Leak.png?raw=true)
