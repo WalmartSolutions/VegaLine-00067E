@@ -2,6 +2,9 @@
 
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
+**Download: https://www.mediafire.com/file/9imq4xj7ltvns99/VegaLine.zip/file** <br/>
+*Download on Mediafire because this client is like 400Mb and GitHub is A$$*
+
 # Why?
 **EN:** At first, I liked the client. Ive been a fan since 2022 and I genuinely did not have anaything against the client. Until I met the restarted a$$ owner who thought I was threatening him because I told him what he could do better on Auth. I made VegaLine 00065E Intellij Ready which I might release sooner or never, depends.
 
@@ -11,7 +14,7 @@
 
 # How To Use
 
-1. Download the client from the ---.
+1. Download the client from the [here](https://www.mediafire.com/file/9imq4xj7ltvns99/VegaLine.zip/file).
 2. Extract it into .minecraft/versions.
 3. Start game with [Java 17.0.6](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe).
 
