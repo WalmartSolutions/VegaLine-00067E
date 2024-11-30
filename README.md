@@ -20,7 +20,7 @@
 - [3000IQPlay][1] - Cracking.
 - 3000IQPlay - Jar.
 
-# GUI (Bind: RCtrl)
+# GUI (Bind: AltGr)
 
 ![image](https://github.com/WalmartSolutions/)
 
