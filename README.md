@@ -2,7 +2,7 @@
 
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
-**Download: https://gofile.io/d/R0deEr** <br/>
+**Download: https://gofile.io/d/R0deEr / https://www.mediafire.com/file/sjmb5pshy7nk36n/VegaLine.zip/file** <br/>
 *Download on Gofile because this client is like 400Mb and GitHub is A$$*
 
 # Why?
@@ -14,7 +14,7 @@
 
 # How To Use
 
-1. Download the client from the [here](https://gofile.io/d/R0deEr).
+1. Download the client from the [here](https://www.mediafire.com/file/sjmb5pshy7nk36n/VegaLine.zip/file).
 2. Extract it into .minecraft/versions.
 3. Disable FastRender in Settings > Video Settings (Set it to "Graphics: Fancy")
 4. Start game with [Java 17.0.6](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe).
