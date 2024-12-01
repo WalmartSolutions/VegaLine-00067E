@@ -16,7 +16,8 @@
 
 1. Download the client from the [here](https://gofile.io/d/R0deEr).
 2. Extract it into .minecraft/versions.
-3. Start game with [Java 17.0.6](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe).
+3. Disable FastRender in Settings > Video Settings (Set it to "Graphics: Fancy")
+4. Start game with [Java 17.0.6](https://download.oracle.com/java/17/archive/jdk-17.0.6_windows-x64_bin.exe).
 
 # Credits
 - Vega33 (619200173993623563) - Making this client.
