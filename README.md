@@ -6,7 +6,7 @@
 *Download on Gofile because this client is like 400Mb and GitHub is A$$*
 
 # Why?
-**EN:** At first, I liked the client. Ive been a fan since 2022 and I genuinely did not have anaything against the client. Until I met the restarted a$$ owner who thought I was threatening him because I told him what he could do better on Auth. I made VegaLine 00065E Intellij Ready which I might release sooner or never, depends.
+**EN:** At first, I liked the client. Ive been a fan since 2022 and I genuinely did not have anything against the client. Until I met the restarted a$$ owner who thought I was threatening him because I told him what he could do better on Auth. I made VegaLine 00065E Intellij Ready which I might release sooner or never, depends.
 
 **RU (Translated):** Поначалу клиент мне понравился. Я фанат с 2022 года, и у меня действительно не было никаких претензий к клиенту. Пока я не встретил перезапущенного владельца a$$, который подумал, что я ему угрожаю, потому что я сказал ему, что он мог бы сделать лучше на Auth. Я сделал VegaLine 00065E Intellij Ready, который я могу выпустить раньше или никогда, зависит от ситуации.
 
